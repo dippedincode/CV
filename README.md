@@ -92,18 +92,23 @@ I seek a role in which I can continue to create and deliver innovative and robus
 **Personal online software developer training** (July 2018 to Oct 2018)  
 In preparation for the Makers Academy course
 
-**Kindred Group Plc** (Nov 2010 to Jun 2017) - Product Delivery Manager
+**Kindred Group Plc** (Nov 2010 to Jun 2017) - *Product Delivery Manager*
+<br />Delivered new products and features for several online gambling brands and extensions to the CMS platform.
 
-**Vodafone Global Content Services** (Dec 2008 to July 2010) - Product Manager
+**Vodafone Global Content Services** (Dec 2008 to July 2010) - *Product Manager*
+<br />Managed the deployment of a digital retailing platform for mobile customers in eight Vodafone operating companies.
 
-**Boltblue** (Mar 2007 to Jun 2008) - Product Manager
+**Boltblue** (Mar 2007 to Jun 2008) - *Product Manager*
+<br />Responsible for rollout of products on a mobile content portal and launch into new markets.
 
-**Proximus** (Feb 2004 to Feb 2007) - Product Manager
+**Proximus** (Feb 2004 to Feb 2007) - *Product Manager*
+<br />Delivered a music download service to mobile customers and supported a large number of third-party content providers.
 
-**Vodafone Group Plc** (Oct 2000 to Mar 2003) - Technical Project Manager
+**Vodafone Group Plc** (Oct 2000 to Mar 2003) - *Technical Project Manager*
+<br />Oversaw the deployment of products on Vodafone's first mobile internet content portal, including alerts and location based services. 
 
-**Reuters** (Oct 1996 to Sep 2000) - Technical Project Manager
-<br />I was responsible for network rollouts, router configurations and front-end applications to financial databases
+**Reuters** (Oct 1996 to Sep 2000) - *Technical Project Manager*
+<br />Responsible for network rollouts, router configurations and front-end applications to financial databases
 
 In between certain roles I dedicated my time towards raising my children and in earlier years I spent time travelling in order to experience new cultures and landscapes. This has all helped me to grow as a person and broaden my perspectives.
 
