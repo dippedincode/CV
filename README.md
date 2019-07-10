@@ -18,7 +18,7 @@
 
 <div align="center">
   
-[Background](#background) | 
+[Profile](#profile) | 
 [Projects](#projects) | 
 [Skills](#skills) | 
 [Experience](#experience) | 
@@ -27,16 +27,14 @@
 
 </div>
 
+## Profile
 I am a full-stack software developer with over 15 years of product-focused experience in a number of roles within multinational companies. Following a career change into programming I now have a passion to craft new products in code, immerse myself in new technologies and continue to learn and grow as I do so. I am a graduate of Makers Academy where I have acquired the coding skills and techniques to help me on my way to becoming a world-class programmer.
 
-I seek a role in which I can continue to create and deliver innovative and robust products in an Agile environment, manage product backlogs and collaborate with stakeholders across business and technology teams. As I have thoroughly enjoyed working with many software development teams in my career I would be very excited to join such a team. I have a strong desire to discover solutions to product challenges and I would feel empowered and rewarded to build those solutions in code.
-
-## Background
 I completed an undergraduate degree course in Engineering at Cambridge University and followed that with an MSc in Distributed Systems at the University of Kent. Since then I have worked in several technology roles for global companies and consumer brands. I am very glad to move into software development and continue my journey in technology. 
 
-I have extensive commercial experience in web products. My last job was at an online gambling operator called Kindred whose main brand is Unibet. During my 6.5 years there the company more than doubled the number of customers and brands that it served. I was responsible for essential updates on the CMS (based on the Atex Polopoly platform) to support this expansion. I worked mainly on front-end deliverables for new products and features, optimising customer journeys and producing compelling landing pages for marketing teams.
+I have extensive commercial experience in web products. My last job was at an online gambling operator called Kindred whose main brand is Unibet. I was responsible for delivering new products and features, optimising customer journeys and producing compelling landing pages for marketing teams. Prior to this I worked on mobile content retailing platforms for Vodafone customers in several markets, including a music download service for the leading mobile operator in Belgium.
 
-Prior to this I worked on major mobile content retailing platforms for Vodafone customers in several markets. One of those was in Belgium for the Vodafone partner operating company called Proximus. I enjoyed a 3 year product manager role there mainly working on a music download product which was a key consumer offering on their upgraded data network. I also supported a large number of content providers in making their content available on their mobile content portal.
+I seek a role in which I can continue to create and deliver innovative and robust products in an Agile environment, manage product backlogs and collaborate with stakeholders across business and technology teams. As I have thoroughly enjoyed working with many software development teams in my career I would be very excited to join such a team. I have a strong desire to discover solutions to product challenges and I would feel empowered and rewarded to build those solutions in code.
 
 ## Projects
 | Title	| Description	| Technologies and frameworks | Duration |
@@ -105,7 +103,7 @@ In preparation for the Makers Academy course
 **Vodafone Group Plc** (Oct 2000 to Mar 2003) - Technical Project Manager
 
 **Reuters** (Oct 1996 to Sep 2000) - Technical Project Manager
-I was responsible for network rollouts, router configurations and front-end applications to financial databases
+<br />I was responsible for network rollouts, router configurations and front-end applications to financial databases
 
 In between certain roles I dedicated my time towards raising my children and in earlier years I spent time travelling in order to experience new cultures and landscapes. This has all helped me to grow as a person and broaden my perspectives.
 
