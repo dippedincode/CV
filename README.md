@@ -89,6 +89,9 @@ I seek a role in which I can continue to create and deliver innovative and robus
 
 ## Experience
 
+**Alfa Financial Software** (Sep 2019 to present) - *Junior Software Engineer*
+Currently learning Java in the company's induction programme
+
 **Personal online software developer training** (July 2018 to Oct 2018)  
 In preparation for the Makers Academy course
 
