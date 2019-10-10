@@ -32,7 +32,7 @@ I am a full-stack software developer with over 10 years of web product experienc
 
 I completed an undergraduate degree course in Engineering at Cambridge University and followed that with an MSc in Distributed Systems at the University of Kent. Since then I have worked in several technology roles for global companies and consumer brands. I am very glad to move into software development and continue my journey in technology. 
 
-I have extensive commercial experience in web products. My last job was at an online gambling operator called Kindred whose main brand is Unibet. I was responsible for delivering new products and features, optimising customer journeys and producing compelling landing pages for marketing teams. Prior to this I worked on mobile content retailing platforms for Vodafone customers in several markets, including a music download service for the leading mobile operator in Belgium.
+I have extensive commercial experience in web products. My last job was at an online gambling operator called Kindred whose main brand is Unibet. I was responsible for delivering new products and features, optimising customer journeys and producing compelling landing pages for marketing teams. Prior to this I worked on mobile content retailing platforms for Vodafone customers in several markets.
 
 I am now a Junior Software Engineer at Alfa Financial Software and I look forward to developing code for their asset finance software products. I aim to create and deliver innovative and robust solutions in an Agile environment, manage product backlogs and collaborate with stakeholders across business and technology teams.
 
