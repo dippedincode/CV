@@ -34,7 +34,7 @@ I completed an undergraduate degree course in Engineering at Cambridge Universit
 
 I have extensive commercial experience in web products. My last job was at an online gambling operator called Kindred whose main brand is Unibet. I was responsible for delivering new products and features, optimising customer journeys and producing compelling landing pages for marketing teams. Prior to this I worked on mobile content retailing platforms for Vodafone customers in several markets, including a music download service for the leading mobile operator in Belgium.
 
-I seek a role in which I can continue to create and deliver innovative and robust products in an Agile environment, manage product backlogs and collaborate with stakeholders across business and technology teams. As I have thoroughly enjoyed working with many software development teams in my career I would be very excited to join such a team. I have a strong desire to discover solutions to product challenges and I would feel empowered and rewarded to build those solutions in code.
+I am now a Junior Software Engineer at Alfa Financial Software and I look forward to developing code for their asset finance software products. I aim to create and deliver innovative and robust solutions in an Agile environment, manage product backlogs and collaborate with stakeholders across business and technology teams.
 
 ## Projects
 | Title	| Description	| Technologies and frameworks | Duration |
