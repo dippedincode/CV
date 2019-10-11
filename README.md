@@ -90,7 +90,7 @@ I am now a Junior Software Engineer at Alfa Financial Software and I look forwar
 ## Experience
 
 **Alfa Financial Software** (Sep 2019 to present) - *Junior Software Engineer*
-<br />Currently learning Java as a participant in the company's training programme
+<br />Currently learning Java within the company's training programme
 
 **Personal online software developer training** (July 2018 to Oct 2018)  
 In preparation for the Makers Academy course
