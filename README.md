@@ -11,8 +11,8 @@
 <a href="https://medium.com/@diptis.halder">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/211_Medium_logo_logos-256.png" alt="medium" hspace="50" height="42" width="42"></a>
 
-<a href="https://www.dips.dev/">
-<img src="https://worldfoodtour.co.uk/wp-content/uploads/2017/02/44.png" alt="dips.dev" hspace="50" height="42" width="42"></a>
+<!-- a href="https://www.dips.dev/">
+<img src="https://worldfoodtour.co.uk/wp-content/uploads/2017/02/44.png" alt="dips.dev" hspace="50" height="42" width="42"></a -->
 
 </p>
 
