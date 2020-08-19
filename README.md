@@ -30,9 +30,9 @@
 ## Profile
 I am a full-stack software developer specialising in Java and my most recent role was as a developer for an asset finance software company. I am a graduate of Makers Academy where I have acquired the coding skills and techniques to help me on my way to becoming a world-class programmer. I also have over 10 years of web product experience in a number of roles within multinational companies. Following a career change into programming I now have a passion to craft software, immerse myself in new technologies and continue to learn and grow.
 
-I completed an undergraduate degree course in Engineering at Cambridge University and followed that with an MSc in Distributed Systems at the University of Kent. Since then I have worked in several technology roles for global companies and consumer brands. I have extensive commercial experience in web products. One of my product roles was at an online gambling operator in which I was responsible for delivering new products and features, optimising customer journeys and producing compelling landing pages for marketing teams. Prior to this I worked on mobile content retailing platforms for Vodafone customers in several markets.
+I completed an undergraduate degree course in Engineering at Cambridge University and followed that with an MSc in Distributed Systems at the University of Kent. Since then I have worked in several web product roles for global companies and consumer brands. One of my product roles was at an online gambling operator in which I was responsible for delivering new products and features, optimising customer journeys and producing compelling landing pages for marketing teams. Prior to this I worked on mobile content retailing platforms for Vodafone customers in several markets.
 
-I am now a Junior Software Engineer at Alfa Financial Software and I look forward to developing code for their asset finance software products. I aim to create and deliver innovative and robust solutions in an Agile environment, manage product backlogs and collaborate with stakeholders across business and technology teams.
+My last role was as a Junior Software Engineer at Alfa Financial Software.
 
 ## Projects
 | Title	| Description	| Technologies and frameworks | Duration |
@@ -46,8 +46,8 @@ I am now a Junior Software Engineer at Alfa Financial Software and I look forwar
 ## Skills
 
 ### Programming languages and frameworks
-- Ruby, Sinatra, Rails, JavaScript, Node.js, React, jQuery, PostgreSQL, HTML, CSS
-- RSpec, Capybara, Jasmine, Cypress, Jest
+- Java, JavaScript, Node.js, React, jQuery, Ruby, Sinatra, Rails, PostgreSQL, HTML, CSS
+- JUnit, Jasmine, Jest, Cucumber, RSpec, Capybara, Cypress
 
 ### Methodologies
 - OOP, MVC, Clean Code, SOLID principles, object and process modelling
@@ -87,7 +87,7 @@ I am now a Junior Software Engineer at Alfa Financial Software and I look forwar
 
 ## Experience
 
-**Alfa Financial Software** (Sep 2019 to present) - *Junior Software Engineer*
+**Alfa Financial Software** (Sep 2019 to Sep 2020) - *Junior Software Engineer*
 <br />Currently learning Java within the company's training programme
 
 **Personal online software developer training** (July 2018 to Oct 2018)  
@@ -114,9 +114,8 @@ In preparation for the Makers Academy course
 In between certain roles I dedicated my time towards raising my children and in earlier years I spent time travelling in order to experience new cultures and landscapes. This has all helped me to grow as a person and broaden my perspectives.
 
 ## Interests
-- **Sport**: I play football, squash and table tennis, and I am a keen follower of football, cricket and a few other sports. I support a very successful club from my home city of Manchester and I give the Premier League most of my attention, but I am also very interested in lower levels of football in England and in Spain's La Liga.
-Researching and collecting classic football shirts is another passion of mine and I have a passion for the design elements and nostalgia that prevail in this hobby.  
+- **Sport**: I play football, squash and table tennis, and I am a keen follower of football, cricket and a few other sports.  
 
-- **Music**: I enjoy attending music concerts when I can and I follow both established and new artists online. Since London offers many opportunities to see performers in all types of venues I enjoy both intimate concerts in small rooms and world famous acts in large arenas in equal measure. I am an ardent fan of certain brands of guitar music. Recently I discovered the bluegrass genre which is an exciting combination of roots, blues and jazz.     
+- **Music**: I enjoy attending music concerts when I can and I follow both established and new artists online..     
 
 Any other free time I have is taken up with caring for and entertaining my two young children and in turn my wife and wider community of family and friends.
