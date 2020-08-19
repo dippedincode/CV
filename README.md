@@ -32,11 +32,11 @@ I am a full-stack software developer specialising in Java and my most recent rol
 
 I completed an undergraduate degree course in Engineering at Cambridge University and followed that with an MSc in Distributed Systems at the University of Kent. Since then I have worked in several web product roles for global companies and consumer brands. One of my product roles was at an online gambling operator in which I was responsible for delivering new products and features, optimising customer journeys and producing compelling landing pages for marketing teams. Prior to this I worked on mobile content retailing platforms for Vodafone customers in several markets.
 
-My last role was as a Junior Software Engineer at Alfa Financial Software.
+My last role was as a Junior Software Engineer at Alfa Systems which is a leading provider of asset finance software, and it was my first since graduating from Makers Acadmey. In this role I delivered bug fixes and product enhancements to their Java siftware platform, putting into practice the skills I have gained in my training. I am seeking a new role in which I can build on my knowledge base and continue delivering product solutions.    
 
 ## Projects
 | Title	| Description	| Technologies and frameworks | Duration |
-|---	|---	|---	|--- |
+|---	|---	|---	|--- | 
 | [What Zen](https://github.com/what-zen/what-zen-app) | For my final project at Makers our team of 5 built a task manager integrated with chat. It allows its community of users to manage tasks using a simple format which followed the Eisenhower Matrix, and chat about the tasks or issues in general. It is deployed at https://what-zen-app.firebaseapp.com/ 	| JavaScript, React, Node.js, Cypress, Travis CI, Firebase | 2 weeks	|
 | [Acebook](https://github.com/dippedincode/acebook-desk-warriors) | This was my second team project at Makers, there were 4 of us in the team. The task was to build a clone of facebook. This time new requirements were given to us by the 'product owner' in Makers halfway through the project so we had to react in a very agile way to meet them. | Ruby, Rails, RSpec, Heroku, Travis CI, Heroku | 2 weeks |
 | [MakersBnB](https://github.com/dippedincode/Makers_BnB)	| This was my first team project at Makers and it introduced me to the prevalent Agile methodologies. 5 of us built a clone of Airbnb, starting from initial concept and design, early MVP, several iterations of product and features through to final delivery in a very short timeframe. | Ruby, Active Record ORM, RSpec, Travis CI, Heroku | 1 week	|
@@ -59,7 +59,7 @@ My last role was as a Junior Software Engineer at Alfa Financial Software.
 - I have experience of working with UX specs and wireframes, user-centric design and analysing customer journeys
 
 ### E-commerce
-- I have strong skills in delivering high quality customer-focused propositions for product portals in online gambling and mobile content
+- I have strong skills in delivering high quality customer-focused propositions having worked on product portals for mobile content and online gambling
 - I worked closely with product management and marketing teams to create web products and landing pages which would drive customer acquisition and retention
 
 ### Stakeholder management
@@ -72,7 +72,7 @@ My last role was as a Junior Software Engineer at Alfa Financial Software.
 ### Makers Academy (November 2018 - March 2019)
 
 - I passed an intensive sofware development bootcamp course at this world renowned institution in central London 
-- Focus on learning how to learn to code through individual and team projects following Agile best practice and processes
+- Focus was on learning how to learn to code through individual and team projects following Agile best practice and processes
 - Emphasis also on maintaining a growth mindset, holistic personal development and mental well-being 
 
 ### University of Kent (1995 to 1996)
