@@ -63,7 +63,7 @@ My last role was as a Junior Software Engineer at Alfa Systems which is a leadin
 - I worked closely with product management and marketing teams to create web products and landing pages which would drive customer acquisition and retention
 
 ### Stakeholder management
-- In my last role I interfaced and collaboarated effectively across many teams covering product, commercial, technical, project management and legal divisions of the companies
+- In several roles I have interfaced and collaboarated effectively across many teams covering product, commercial, technical, project management and legal divisions of the companies
 - I ensured effective channels for feedback and follow-up actions to respond to changing business needs
 - I take pride in providing clear and timely updates on progress of user stories and projects, mindful of adapting the format, style and length based on audience and communication channel.
 
@@ -87,8 +87,8 @@ My last role was as a Junior Software Engineer at Alfa Systems which is a leadin
 
 ## Experience
 
-**Alfa Financial Software** (Sep 2019 to Sep 2020) - *Junior Software Engineer*
-<br />Currently learning Java within the company's training programme
+**Alfa Systems** (Sep 2019 to Sep 2020) - *Junior Software Engineer*
+<br />Delivered bug fixes and enhancements to the Java asset finance software product 
 
 **Personal online software developer training** (July 2018 to Oct 2018)  
 In preparation for the Makers Academy course
