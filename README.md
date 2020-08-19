@@ -28,11 +28,9 @@
 </div>
 
 ## Profile
-I am a full-stack software developer with over 10 years of web product experience in a number of roles within multinational companies. Following a career change into programming I now have a passion to craft new products in code, immerse myself in new technologies and continue to learn and grow as I do so. I am a graduate of Makers Academy where I have acquired the coding skills and techniques to help me on my way to becoming a world-class programmer.
+I am a full-stack software developer specialising in Java and my most recent role was as a developer for an asset finance software company. I am a graduate of Makers Academy where I have acquired the coding skills and techniques to help me on my way to becoming a world-class programmer. I also have over 10 years of web product experience in a number of roles within multinational companies. Following a career change into programming I now have a passion to craft software, immerse myself in new technologies and continue to learn and grow.
 
-I completed an undergraduate degree course in Engineering at Cambridge University and followed that with an MSc in Distributed Systems at the University of Kent. Since then I have worked in several technology roles for global companies and consumer brands. I am very glad to move into software development and continue my journey in technology. 
-
-I have extensive commercial experience in web products. My last job was at an online gambling operator called Kindred whose main brand is Unibet. I was responsible for delivering new products and features, optimising customer journeys and producing compelling landing pages for marketing teams. Prior to this I worked on mobile content retailing platforms for Vodafone customers in several markets.
+I completed an undergraduate degree course in Engineering at Cambridge University and followed that with an MSc in Distributed Systems at the University of Kent. Since then I have worked in several technology roles for global companies and consumer brands. I have extensive commercial experience in web products. One of my product roles was at an online gambling operator in which I was responsible for delivering new products and features, optimising customer journeys and producing compelling landing pages for marketing teams. Prior to this I worked on mobile content retailing platforms for Vodafone customers in several markets.
 
 I am now a Junior Software Engineer at Alfa Financial Software and I look forward to developing code for their asset finance software products. I aim to create and deliver innovative and robust solutions in an Agile environment, manage product backlogs and collaborate with stakeholders across business and technology teams.
 
