@@ -32,7 +32,7 @@ I am a full-stack software developer specialising in Java and my most recent rol
 
 I completed an undergraduate degree course in Engineering at Cambridge University and followed that with an MSc in Distributed Systems at the University of Kent. Since then I have worked in several web product roles for global companies and consumer brands. One of my product roles was at an online gambling operator in which I was responsible for delivering new products and features, optimising customer journeys and producing compelling landing pages for marketing teams. Prior to this I worked on mobile content retailing platforms for Vodafone customers in several markets.
 
-My last role was as a Junior Software Engineer at Alfa Systems which is a leading provider of asset finance software, and it was my first since graduating from Makers Acadmey. In this role I delivered bug fixes and product enhancements to their Java siftware platform, putting into practice the skills I have gained in my training. I am seeking a new role in which I can build on my knowledge base and continue delivering product solutions.    
+My last role was as a Junior Software Engineer at Alfa Systems which is a leading provider of asset finance software, and it was my first since graduating from Makers Acadmey. In this role I delivered bug fixes and product enhancements to their Java siftware platform, putting into practice the skills I have gained in my training. I am seeking a new role in which I can build on my experience and continue delivering product solutions.    
 
 ## Projects
 | Title	| Description	| Technologies and frameworks | Duration |
@@ -91,7 +91,7 @@ My last role was as a Junior Software Engineer at Alfa Systems which is a leadin
 <br />Delivered bug fixes and enhancements to the Java asset finance software product 
 
 **Personal online software developer training** (July 2018 to Oct 2018)  
-In preparation for the Makers Academy course
+<br />In preparation for the Makers Academy course
 
 **Kindred Group Plc** (Nov 2010 to Jun 2017) - *Product Delivery Manager*
 <br />Delivered new products and features for several online gambling brands and extensions to the CMS platform
@@ -100,7 +100,7 @@ In preparation for the Makers Academy course
 <br />Managed the deployment of a digital retailing platform for mobile customers in eight Vodafone operating companies
 
 **Boltblue** (Mar 2007 to Jun 2008) - *Product Manager*
-<br />Responsible for rollout of products on a mobile content portal and launch into new markets
+<br />Responsible for the rollout of products on a mobile content portal and launch into new markets
 
 **Proximus** (Feb 2004 to Feb 2007) - *Product Manager*
 <br />Delivered a music download service to mobile customers and supported a large number of third-party content providers
@@ -116,6 +116,6 @@ In between certain roles I dedicated my time towards raising my children and in 
 ## Interests
 - **Sport**: I play football, squash and table tennis, and I am a keen follower of football, cricket and a few other sports.  
 
-- **Music**: I enjoy attending music concerts when I can and I follow both established and new artists online..     
+- **Music**: I enjoy attending music concerts when I can and I follow both established and new artists online.     
 
 Any other free time I have is taken up with caring for and entertaining my two young children and in turn my wife and wider community of family and friends.
