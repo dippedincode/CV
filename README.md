@@ -65,7 +65,7 @@ My last role was as a Junior Software Engineer at Alfa Systems which is a leadin
 ### Stakeholder management
 - In several roles I have interfaced and collaboarated effectively across many teams covering product, commercial, technical, project management and legal divisions of the companies
 - I ensured effective channels for feedback and follow-up actions to respond to changing business needs
-- I take pride in providing clear and timely updates on progress of user stories and projects, mindful of adapting the format, style and length based on audience and communication channel.
+- I take pride in providing clear and timely updates on progress of user stories and projects, mindful of adapting the format, style and length based on audience and communication channel
 
 ## Education
 
