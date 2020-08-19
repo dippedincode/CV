@@ -90,7 +90,7 @@ My last role was as a Junior Software Engineer at Alfa Systems which is a leadin
 **Alfa Systems** (Sep 2019 to Sep 2020) - *Junior Software Engineer*
 <br />Delivered bug fixes and enhancements to the Java asset finance software product  
 
-**Personal online software developer training** (July 2018 to Oct 2018)
+**Personal online software developer training** (July 2018 to Oct 2018) - *Self study*
 <br />In preparation for the Makers Academy course
 
 **Kindred Group Plc** (Nov 2010 to Jun 2017) - *Product Delivery Manager*
