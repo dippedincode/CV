@@ -71,7 +71,7 @@ My last role was as a Junior Software Engineer at Alfa Systems which is a leadin
 
 ### Makers Academy (November 2018 - March 2019)
 
-- I passed an intensive sofware development bootcamp course at this world renowned institution in central London 
+- I passed an intensive software development bootcamp course at this world renowned institution in central London 
 - Focus was on learning how to learn to code through individual and team projects following Agile best practice and processes
 - Emphasis also on maintaining a growth mindset, holistic personal development and mental well-being 
 
