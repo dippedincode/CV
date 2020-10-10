@@ -32,7 +32,7 @@ I am a full-stack software developer specialising in Java and my most recent rol
 
 I completed an undergraduate degree course in Engineering at Cambridge University and followed that with an MSc in Distributed Systems at the University of Kent. Since then I have worked in several web product roles for global companies and consumer brands. One of my product roles was at an online gambling operator in which I was responsible for delivering new products and features, optimising customer journeys and producing compelling landing pages for marketing teams. Prior to this I worked on mobile content retailing platforms for Vodafone customers in several markets.
 
-My last role was as a Junior Software Engineer at Alfa Systems which is a leading provider of asset finance software, and it was my first since graduating from Makers Acadmey. In this role I delivered bug fixes and product enhancements to their Java software platform, putting into practice the skills I have gained in my training. I am seeking a new role in which I can build on my experience and continue delivering product solutions.    
+My last role was as a Junior Software Engineer at Alfa Systems which is a leading provider of asset finance software, and it was my first since graduating from Makers Academy. In this role I delivered bug fixes and product enhancements to their Java software platform, putting into practice the skills I have gained in my training. I am seeking a new role in which I can build on my experience and continue delivering product solutions.    
 
 ## Projects
 | Title	| Description	| Technologies and frameworks | Duration |
